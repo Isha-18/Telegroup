@@ -4,23 +4,6 @@
             "outputFile": "D:\\isha parab\\Dev\\group_chatapp_flutter_firebase\\group_chatapp_flutter_firebase\\build\\cloud_firestore\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ne\\values-ne.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ishap\\.gradle\\caches\\transforms-3\\d1c32b1c74d9fbc2dad83513438f2124\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-ne\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "159",
-                        "endOffsets": "354"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1101",
-                        "endColumns": "163",
-                        "endOffsets": "1260"
-                    }
-                },
-                {
                     "source": "C:\\Users\\ishap\\.gradle\\caches\\transforms-3\\d4be00ef9362846b7e5ef168486a55d7\\transformed\\core-1.6.0\\res\\values-ne\\values-ne.xml",
                     "from": {
                         "startLines": "2",
@@ -35,6 +18,23 @@
                         "startOffsets": "2386",
                         "endColumns": "100",
                         "endOffsets": "2482"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ishap\\.gradle\\caches\\transforms-3\\5de754888986f466914b1fadddc001cb\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "159",
+                        "endOffsets": "354"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1101",
+                        "endColumns": "163",
+                        "endOffsets": "1260"
                     }
                 },
                 {
@@ -60,23 +60,6 @@
             "outputFile": "D:\\isha parab\\Dev\\group_chatapp_flutter_firebase\\group_chatapp_flutter_firebase\\build\\cloud_firestore\\intermediates\\merged_res\\release\\values-ne\\values-ne.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ishap\\.gradle\\caches\\transforms-3\\d1c32b1c74d9fbc2dad83513438f2124\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-ne\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "159",
-                        "endOffsets": "354"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1101",
-                        "endColumns": "163",
-                        "endOffsets": "1260"
-                    }
-                },
-                {
                     "source": "C:\\Users\\ishap\\.gradle\\caches\\transforms-3\\d4be00ef9362846b7e5ef168486a55d7\\transformed\\core-1.6.0\\res\\values-ne\\values-ne.xml",
                     "from": {
                         "startLines": "2",
@@ -91,6 +74,23 @@
                         "startOffsets": "2386",
                         "endColumns": "100",
                         "endOffsets": "2482"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ishap\\.gradle\\caches\\transforms-3\\5de754888986f466914b1fadddc001cb\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "159",
+                        "endOffsets": "354"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1101",
+                        "endColumns": "163",
+                        "endOffsets": "1260"
                     }
                 },
                 {

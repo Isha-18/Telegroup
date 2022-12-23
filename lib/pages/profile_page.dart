@@ -142,7 +142,7 @@ class _ProfilePageState extends State<ProfilePage> {
               ],
             ),
             const Divider(
-              height: 20,
+              height: 8,
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,

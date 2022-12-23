@@ -21,23 +21,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ishap\\.gradle\\caches\\transforms-3\\d1c32b1c74d9fbc2dad83513438f2124\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-uz\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "145",
-                        "endOffsets": "340"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1260",
-                        "endColumns": "149",
-                        "endOffsets": "1405"
-                    }
-                },
-                {
                     "source": "C:\\Users\\ishap\\.gradle\\caches\\transforms-3\\6ba587f18e0cfb42db299785e64a7064\\transformed\\browser-1.4.0\\res\\values-uz\\values-uz.xml",
                     "from": {
                         "startLines": "2,3,4,5",
@@ -69,6 +52,23 @@
                         "startOffsets": "105,212,394,525,636,840,975,1125,1410,1641,1751,1941,2075,2288,2480,2576,2667",
                         "endColumns": "106,181,130,110,203,134,149,134,230,109,189,133,212,191,95,90,108",
                         "endOffsets": "207,389,520,631,835,970,1120,1255,1636,1746,1936,2070,2283,2475,2571,2662,2771"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ishap\\.gradle\\caches\\transforms-3\\5de754888986f466914b1fadddc001cb\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-uz\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "145",
+                        "endOffsets": "340"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1260",
+                        "endColumns": "149",
+                        "endOffsets": "1405"
                     }
                 }
             ]
@@ -94,23 +94,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ishap\\.gradle\\caches\\transforms-3\\d1c32b1c74d9fbc2dad83513438f2124\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-uz\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "145",
-                        "endOffsets": "340"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1260",
-                        "endColumns": "149",
-                        "endOffsets": "1405"
-                    }
-                },
-                {
                     "source": "C:\\Users\\ishap\\.gradle\\caches\\transforms-3\\6ba587f18e0cfb42db299785e64a7064\\transformed\\browser-1.4.0\\res\\values-uz\\values-uz.xml",
                     "from": {
                         "startLines": "2,3,4,5",
@@ -142,6 +125,23 @@
                         "startOffsets": "105,212,394,525,636,840,975,1125,1410,1641,1751,1941,2075,2288,2480,2576,2667",
                         "endColumns": "106,181,130,110,203,134,149,134,230,109,189,133,212,191,95,90,108",
                         "endOffsets": "207,389,520,631,835,970,1120,1255,1636,1746,1936,2070,2283,2475,2571,2662,2771"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ishap\\.gradle\\caches\\transforms-3\\5de754888986f466914b1fadddc001cb\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-uz\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "145",
+                        "endOffsets": "340"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1260",
+                        "endColumns": "149",
+                        "endOffsets": "1405"
                     }
                 }
             ]

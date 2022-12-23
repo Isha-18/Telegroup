@@ -4,23 +4,6 @@
             "outputFile": "D:\\isha parab\\Dev\\group_chatapp_flutter_firebase\\group_chatapp_flutter_firebase\\build\\firebase_auth\\intermediates\\merged_res\\release\\values-pa\\values-pa.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ishap\\.gradle\\caches\\transforms-3\\d1c32b1c74d9fbc2dad83513438f2124\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-pa\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "146",
-                        "endOffsets": "341"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1275",
-                        "endColumns": "150",
-                        "endOffsets": "1421"
-                    }
-                },
-                {
                     "source": "C:\\Users\\ishap\\.gradle\\caches\\transforms-3\\d4be00ef9362846b7e5ef168486a55d7\\transformed\\core-1.6.0\\res\\values-pa\\values-pa.xml",
                     "from": {
                         "startLines": "2",
@@ -69,6 +52,23 @@
                         "startOffsets": "105,214,419,551,662,868,999,1142,1426,1647,1758,1962,2096,2308,2499,2595,2691",
                         "endColumns": "108,204,131,110,205,130,142,132,220,110,203,133,211,190,95,95,110",
                         "endOffsets": "209,414,546,657,863,994,1137,1270,1642,1753,1957,2091,2303,2494,2590,2686,2797"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ishap\\.gradle\\caches\\transforms-3\\5de754888986f466914b1fadddc001cb\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-pa\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "146",
+                        "endOffsets": "341"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1275",
+                        "endColumns": "150",
+                        "endOffsets": "1421"
                     }
                 }
             ]
@@ -77,23 +77,6 @@
             "outputFile": "D:\\isha parab\\Dev\\group_chatapp_flutter_firebase\\group_chatapp_flutter_firebase\\build\\firebase_auth\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-pa\\values-pa.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ishap\\.gradle\\caches\\transforms-3\\d1c32b1c74d9fbc2dad83513438f2124\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-pa\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "146",
-                        "endOffsets": "341"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1275",
-                        "endColumns": "150",
-                        "endOffsets": "1421"
-                    }
-                },
-                {
                     "source": "C:\\Users\\ishap\\.gradle\\caches\\transforms-3\\d4be00ef9362846b7e5ef168486a55d7\\transformed\\core-1.6.0\\res\\values-pa\\values-pa.xml",
                     "from": {
                         "startLines": "2",
@@ -142,6 +125,23 @@
                         "startOffsets": "105,214,419,551,662,868,999,1142,1426,1647,1758,1962,2096,2308,2499,2595,2691",
                         "endColumns": "108,204,131,110,205,130,142,132,220,110,203,133,211,190,95,95,110",
                         "endOffsets": "209,414,546,657,863,994,1137,1270,1642,1753,1957,2091,2303,2494,2590,2686,2797"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ishap\\.gradle\\caches\\transforms-3\\5de754888986f466914b1fadddc001cb\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-pa\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "146",
+                        "endOffsets": "341"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1275",
+                        "endColumns": "150",
+                        "endOffsets": "1421"
                     }
                 }
             ]
